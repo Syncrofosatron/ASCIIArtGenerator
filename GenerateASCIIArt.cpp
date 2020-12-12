@@ -28,11 +28,11 @@ int main()
 
 			int b = pixels[0];	// Gives us blue value.
 			int g = pixels[1];	// Gives us green value.
-			int	r = pixels[2];	// Gives us red value.
+			int r = pixels[2];	// Gives us red value.
 			
 			average = (b + g + r) / 3;	// The average for the brightness number.
 
-			string ascii;	// String to store the ascii characters into, in-plcae of the average values.
+			string ascii;	// String to store the ascii characters into, in place of the average values.
 
 			if (average >= 0 && average < 50)
 				ascii = "^^^";
