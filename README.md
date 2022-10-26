@@ -11,7 +11,7 @@ you will have to do it and believe me, it all worth's the wait and the sweat.
 So about this project.
 1. If you want to generate ASCII art of a digital image, first resize it to in around 50-150 range (I'll add the feature to automatically resize later).
 2. Now, get the location of the file and mention it in the source code. I have commented the place where you can do that (You an copy the path of the image file too).
-3. Now, just build the project, after the decoding and execution the results you will get is what this project is about.
+3. Now, just build the project, after the build has been completed successfully, run the program and the results you will get is what this project is about.
 
 Requirements: OpenCV Library for Image Processing.
 
